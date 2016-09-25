@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Загадки</string>
+    <string name="answer_textedit">Введите ответ</string>
+    <string name="email_body_with_answer">%1$s \n\nОтвет: %2$s</string>
+    <string name="email_body_without_answer">%1$s\n\nПопробуй отгадать!</string>
+    <string name="email_subject">Привет! Я знаю интересную загадку!</string>
+    <string name="next_button">Следущая</string>
+    <string name="right_answer">Это правильный ответ!</string>
+    <string name="send_button">Отправить</string>
+    <string name="last_question">Здорово! Это была последняя загадка.</string>
+    <string name="send_to_friend_textview">Нравится загадка? Отправь другу!</string>
+    <string name="show_aswer_button">Показать ответ</string>
+    <string name="with_answer_checkbox">С ответом</string>
+    <string name="wrong_answer">Это неправильный ответ</string>
+    <string-array name="question">
+        <item>Чист, но не вода,\n
+              Бел, но не снег,\n
+              Сладок, но не мороженое,\n
+              Что это?</item>
+        <item>Я фиолетовая, желтая, красная и зеленая\n
+              Меня не могут достать ни король, ни королева.\n
+              Я открываю свои цвета после дождя\n
+              И только тогда, когда выйдет солнце.\n</item>
+        <item>Что бывает один раз в минуте, два раза в моменте, и никогда в тысяче лет?</item>
+        <item>Что находится над головой, но под шляпой?</item>
+        <item>Что всегда бежит, но не идет, часто урчит, но не говорит, имеет ложе, но не спит, имеет уста, но не говорит?</item>
+        <item>Вспыхивает быстро, хорошо горя\n
+              Но кусок деревяшки моментом спустя.</item>
+        <item>Чем больше этого есть, тем меньше ты видишь.\n
+              Что это?</item>
+        <item>Круглая как яблоко,\n
+              плоское, как монета,\n
+              имею глаза,\n
+              но не вижу.</item>
+        <item>Посмотри на мое лицо и увидишь кого-то.\n
+              Посмотри на спину и не увидишь никого.</item>
+        <item>Что черное, когда ты его получаешь, красное, когда используешь и белое после?</item>
+        <item>Ты выбрасываешь то, что снаружи и готовишь то, что внутри. Потом ешь то, что снаружи и выбрасываешь то, что внутри. Что ты ешь?</item>
+        <item>Повсюду, но не виден.\nМожно поймать, но не удержать.\nНе имеет горла, но можно услышать.</item>
+    </string-array>
+    <string-array name="answers">
+        <item>Сахар</item>
+        <item>Радуга</item>
+        <item>Буква М</item>
+        <item>Волосы</item>
+        <item>Река</item>
+        <item>Спичка</item>
+        <item>Темнота</item>
+        <item>Пуговица</item>
+        <item>Зеркало</item>
+        <item>Уголь</item>
+        <item>Кукуруза</item>
+        <item>Ветер</item>
+    </string-array>
+</resources>
