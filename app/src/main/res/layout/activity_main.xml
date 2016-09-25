@@ -18,10 +18,10 @@
             android:layout_width="match_parent"
             android:layout_height="220dp"
             android:layout_marginBottom="10dp"
-            android:background="#009688"
+            android:background="@color/riddleBackgroudColor"
             android:gravity="center"
             android:padding="15dp"
-            android:textColor="#ffffff"
+            android:textColor="@color/riddleTextColor"
             android:textSize="16sp" />
         <!-- блок  отправки ответа-->
         <LinearLayout
@@ -92,7 +92,7 @@
             android:layout_marginTop="35dp"
             android:gravity="center"
             android:text="@string/send_to_friend_textview"
-            android:textColor="#607D8B"
+            android:textColor="@color/sendToFriendTextColor"
             android:textSize="18sp" />
 
         <CheckBox
